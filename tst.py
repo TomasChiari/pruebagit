@@ -1,4 +1,5 @@
-import math 
+import math
+from traceback import print_tb 
 
 def prueba():
 	pass
@@ -6,3 +7,4 @@ def prueba():
 print("hola mundo")
 
 print("este es un cambio que no estara en el master")
+print("este es un cambio q hago en el develop")
