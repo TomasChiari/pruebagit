@@ -1,4 +1,5 @@
-import math 
+import math
+from traceback import print_tb 
 
 def prueba():
 	pass
